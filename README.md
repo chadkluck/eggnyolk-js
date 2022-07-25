@@ -1,4 +1,4 @@
-# Egg 'N' Yolk
+# Egg 'N' Yolk (eggnyolk-js)
 
 Easter is always coming, and in 2018 it's April Fool's Day!
 
